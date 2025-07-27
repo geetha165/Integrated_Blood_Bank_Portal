@@ -36,11 +36,10 @@ A web-based Blood Bank Portal developed using PHP, MySQL, HTML, CSS, JavaScript,
 ## 📷 Screenshots 
 
 - Home Page
-![Integrated_Blood_Bank_Portal](https://github.com/geetha165/Integrated_Blood_Bank_Portal/commit/d00ce41e775f8481c2e592b8021a76df95846020#diff-4dbc08b5db5ef76b71a6f20643802bcb8f4dac318df52c4f68f06dc4457f29ec)
-
+<img width="1920" height="1080" alt="home_page" src="https://github.com/user-attachments/assets/eebb23b0-20f7-4fab-9ce7-cee41d52b532" />
 
 - Eligibility Checking Page
-screenshots/eligiblity_tamil.png
+<img width="1920" height="1080" alt="eligiblity_eng" src="https://github.com/user-attachments/assets/39b752a1-50e6-49d5-9852-760e87a4f0f1" />
 
 - Donor Registration Page
 <img width="1878" height="912" alt="Screenshot 2025-03-28 143043" src="https://github.com/user-attachments/assets/6183bbbe-c077-4764-8247-ea3e2181b447" />
@@ -50,6 +49,12 @@ screenshots/eligiblity_tamil.png
 
 - Quick Search
 <img width="1903" height="895" alt="Screenshot 2025-03-28 143430" src="https://github.com/user-attachments/assets/c4b2e167-3435-46ec-8d5c-90d463ab73d2" />
+
+- Admin Page
+<img width="1920" height="1080" alt="admin" src="https://github.com/user-attachments/assets/158c6388-f96a-444c-bebd-92fec9436856" />
+
+- Admin Dashboard
+  <img width="1920" height="1080" alt="admin_dashboard" src="https://github.com/user-attachments/assets/404042d1-b748-4cf1-8440-0946b2ed48dd" />
 
 
 
