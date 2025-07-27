@@ -36,7 +36,7 @@ A web-based Blood Bank Portal developed using PHP, MySQL, HTML, CSS, JavaScript,
 ## 📷 Screenshots 
 
 - Home Page
-screenshots/home_page.png
+[screenshots/home_page.png](https://github.com/geetha165/Integrated_Blood_Bank_Portal/commit/d00ce41e775f8481c2e592b8021a76df95846020#diff-4dbc08b5db5ef76b71a6f20643802bcb8f4dac318df52c4f68f06dc4457f29ec)
 
 - Eligibility Checking Page
 screenshots/eligiblity_tamil.png
