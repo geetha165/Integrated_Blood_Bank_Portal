@@ -75,9 +75,9 @@
 					Salem - 636 007.
                 </p>
                 <p><i class="fa fa-phone"></i> 
-                    <abbr title="Phone">P</abbr>: 98425 55090</p>
+                    <abbr title="Phone">P</abbr>: 98765 43210</p>
                 <p><i class="fa fa-envelope-o"></i> 
-                    <abbr title="Email">E</abbr>: <a href="#" >drapalanisami@gacsalem7.ac.in </a>
+                    <abbr title="Email">E</abbr>: <a href="#" >bloodbank@gacsalem7.ac.in </a>
                 </p>
                 <p><i class="fa fa-clock-o"></i> 
                     <abbr title="Hours">H</abbr>: 24*7</p>
