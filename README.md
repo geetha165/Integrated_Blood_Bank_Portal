@@ -70,8 +70,11 @@ A web-based Blood Bank Portal developed using PHP, MySQL, HTML, CSS, JavaScript,
 - Admin Dashboard
 <img width="1920" height="1080" alt="admin_dashboard" src="https://github.com/user-attachments/assets/404042d1-b748-4cf1-8440-0946b2ed48dd" />
 
+## 🔚 Conclusion
 
+The Integrated Blood Bank Portal aims to streamline and digitalize the blood donation process within campus-based or regional blood donation networks. By providing a user-friendly interface for donor and receiver registration, eligibility checks, quick donor search, and efficient admin management, the portal enhances coordination and transparency in blood donation camps. With built-in eligibility logic, bilingual support, and secure admin controls, this platform simplifies blood management activities and promotes timely donations. Future improvements may include SMS/email alerts, detailed analytics, and mobile responsiveness for broader accessibility.
 
-
+## 📬 Connect with me on LinkedIn:
+- <a href="https://www.linkedin.com/in/geetha-venkatesan2205/">👉 LinkedIn Profile</a>
 
 
