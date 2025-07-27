@@ -9,7 +9,7 @@ A web-based Blood Bank Portal developed using PHP, MySQL, HTML, CSS, JavaScript,
 - 🔍 Search Donors by Blood Group, Name, or Location
 - 📤 Admin Messaging System
 - 🛡️ Admin Panel with Login
-- 📬 Admin Inbox for viewing and replying to messages
+- 📬 Admin Inbox for viewing the messages
 - ✅ Active & Inactive Donor Management
 - 🌍 Add and Manage Country, State, City, and Area
 - 🧑‍⚕️ View Registered Donors and Receivers
