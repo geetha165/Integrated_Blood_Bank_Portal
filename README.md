@@ -36,10 +36,10 @@ A web-based Blood Bank Portal developed using PHP, MySQL, HTML, CSS, JavaScript,
 ## 📷 Screenshots 
 
 - Home Page
-<img width="1882" height="883" alt="Screenshot 2025-03-28 142508" src="https://github.com/user-attachments/assets/d94e0d4e-6b1a-4acb-b3c7-549b14948636" />
+screenshots/home_page.png
 
 - Eligibility Checking Page
-<img width="1855" height="913" alt="Screenshot 2025-03-28 142831" src="https://github.com/user-attachments/assets/dfd78751-af5e-478c-9eb8-d65feb9ff7a4" />
+screenshots/eligiblity_tamil.png
 
 - Donor Registration Page
 <img width="1878" height="912" alt="Screenshot 2025-03-28 143043" src="https://github.com/user-attachments/assets/6183bbbe-c077-4764-8247-ea3e2181b447" />
