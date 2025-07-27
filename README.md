@@ -1,4 +1,4 @@
-<img width="1855" height="913" alt="Screenshot 2025-03-28 142831" src="https://github.com/user-attachments/assets/f46a9a24-e7a5-4896-80e9-578db827654c" /># 🩸 Blood Bank Portal
+# 🩸 Blood Bank Portal
 
 A web-based Blood Bank Portal developed using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap. This project is designed to support and manage blood donation camps efficiently, especially for educational institutions.
 
