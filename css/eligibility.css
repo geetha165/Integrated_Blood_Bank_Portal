@@ -1,0 +1,61 @@
+.container_box {
+    border: 2px solid #ff0006 !important;
+    padding: 15px;
+    border-radius: 10px;
+    min-height: 300px;
+}
+
+.container_title {
+    background: #ff0006 !important;
+    color: white;
+    padding: 8px;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.instruction {
+    background: #dff0d8;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.media img {
+    max-width: 70px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .media-body{
+    padding-top: 10px;
+} */
+
+.translate-btn{
+    border: solid 1px #ff0006 !important;
+    color: #ff0006;
+    text-decoration: none;
+    border-radius: 15%;
+}
+
+.translate-btn:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.faq_container{
+    text-align: center;
+    color: #ff0006;
+}
+
+.faq-line{
+    font-size: 40px;
+}
+
+.h4-panel{
+    color: white;
+}
