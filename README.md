@@ -33,9 +33,9 @@ A web-based Blood Bank Portal developed using PHP, MySQL, HTML, CSS, JavaScript,
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots 
 
-You can add screenshots here using this format:
+<img width="1882" height="883" alt="Screenshot 2025-03-28 142508" src="https://github.com/user-attachments/assets/d94e0d4e-6b1a-4acb-b3c7-549b14948636" />
+Home Page
 
-```markdown
-![Screenshot1](screenshots/home.png)
+
